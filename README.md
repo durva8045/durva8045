@@ -34,15 +34,11 @@
 
 ---
 
-## 📌 Featured Projects
-- 🔐 Password Manager (Python)
-- 🎮 Ping Pong Game (Python Turtle)
 
----
 
 ## 🔗 Connect
 - 💼 LinkedIn: https://linkedin.com/in/durva-joshi-06656b321  
-- 📧 Email: your-email@gmail.com  
+- 📧 Email: joshidurva535@gmail.com  
 
 ---
 

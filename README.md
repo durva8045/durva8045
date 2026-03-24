@@ -27,8 +27,8 @@ c++ | python | dsa | html | css
 
 ## connect
 linkedin: https://linkedin.com/in/YOUR-LINK  
-leetcode: durvajoshi  
-email: your-email@gmail.com  
+leetcode: durvajoshi
+email: joshidurva535@gmail.com 
 
 ---
 

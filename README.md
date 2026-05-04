@@ -35,7 +35,9 @@
 ![HTML](https://img.shields.io/badge/HTML-red)
 ![CSS](https://img.shields.io/badge/CSS-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Git](https://img.shields.io/badge/Git-black)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 
 ---
 
